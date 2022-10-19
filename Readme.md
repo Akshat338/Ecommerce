@@ -27,23 +27,23 @@ The primary goal of an e-commerce site is to sell goods online. It provides the 
 First open XAMPP Control Panel,start Apache and MySql server.Then open chrome search 'localhost/phpmyadmin/' Create a new database for example- 'astore' is name for database then create it.Then choose the location of the path  
 
 ##Screenshot of Website
-![](.\Screenshots\firstpage.png)
-![](.\Screenshots\secondpage.png)
-![](.\Screenshots\productpage.png)
-![](.\Screenshots\productpage1.png)
-![](.\Screenshots\productpage2.png)
-![](.\Screenshots\contact1.png)
-![](.\Screenshots\contact2.png)
-![](.\Screenshots\address.png)
-![](.\Screenshots\signup.png)
-![](.\Screenshots\signin.png)
+![](./Screenshots/firstpage.png)
+![](./Screenshots/secondpage.png)
+![](./Screenshots/productpage.png)
+![](./Screenshots/productpage1.png)
+![](./Screenshots/productpage2.png)
+![](./Screenshots/contact1.png)
+![](./Screenshots/contact2.png)
+![](./Screenshots/address.png)
+![](./Screenshots/signup.png)
+![](./Screenshots/signin.png)
 
 
 ##Screenshots of Database
-![](.\Screenshots\database.png)
-![](.\Screenshots\categories.png)
-![](.\Screenshots\products.png)
-![](.\Screenshots\user.png)
+![](./Screenshots/database.png)
+![](./Screenshots/categories.png)
+![](./Screenshots/products.png)
+![](./Screenshots/user.png)
 
 
 
