@@ -24,7 +24,11 @@ The primary goal of an e-commerce site is to sell goods online. It provides the 
 * Execute `node .bin/www.js` from project directory
 
 #How to Install and Run the Project
-First open XAMPP Control Panel,start Apache and MySql server.Then open chrome search 'localhost/phpmyadmin/' Create a new database for example- 'astore' is name for database then create it.Then choose the location of the path  
+First open XAMPP Control Panel,start Apache and MySql server.Then open chrome search 'localhost/phpmyadmin/' Create a new database for example- 'astore' is name for database then create it.Then choose the location of the path of astore and create the database.Open cmd in desired folder in which project is their.
+
+Step 2-Write npm install.Next command write 'nodeman ./bin/www.js'  
+Step 3-Now type localhost:3000 in chrome.Project is running now.
+ 
 
 ##Screenshot of Website
 ![](./Screenshots/firstpage.png)
@@ -45,6 +49,4 @@ First open XAMPP Control Panel,start Apache and MySql server.Then open chrome se
 ![](./Screenshots/products.png)
 ![](./Screenshots/user.png)
 
-
-
-"# Ecommerce" 
+https://github.com/Akshat338/Ecommerce/issues/1#issue-1415841182
